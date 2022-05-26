@@ -1,0 +1,9 @@
+[user]
+	name = ibrahim dotto jemila
+	email = jemiladotto@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[push]
+	default = current

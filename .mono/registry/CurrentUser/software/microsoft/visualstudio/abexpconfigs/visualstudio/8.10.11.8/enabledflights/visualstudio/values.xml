@@ -1,0 +1,12 @@
+<values>
+<value name="refactoringsAdvancedFilterString"
+type="string">false</value>
+<value name="vsformacaa"
+type="string">true</value>
+<value name="azure_links_tf"
+type="string">false</value>
+<value name="linkscarouseltfl"
+type="string">false</value>
+<value name="Roslyn.ToggleBlockComment.NoUsed"
+type="string">true</value>
+</values>
